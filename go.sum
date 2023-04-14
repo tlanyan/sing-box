@@ -115,8 +115,8 @@ github.com/sagernet/sing v0.2.3-0.20230413105021-520dd58fb01d h1:+hp4necjzOvjg9d
 github.com/sagernet/sing v0.2.3-0.20230413105021-520dd58fb01d/go.mod h1:Ta8nHnDLAwqySzKhGoKk4ZIB+vJ3GTKj7UPrWYvM+4w=
 github.com/sagernet/sing-dns v0.1.5-0.20230408004833-5adaf486d440 h1:VH8/BcOVuApHtS+vKP+khxlGRcXH7KKhgkTDtNynqSQ=
 github.com/sagernet/sing-dns v0.1.5-0.20230408004833-5adaf486d440/go.mod h1:69PNSHyEmXdjf6C+bXBOdr2GQnPeEyWjIzo/MV8gmz8=
-github.com/sagernet/sing-shadowsocks v0.2.1-0.20230412123110-1a7c32b4e2e7 h1:3WDMIF1aE/twc5gJ+9PF2ZJqUxwZ80MPtNBKE3yBevU=
-github.com/sagernet/sing-shadowsocks v0.2.1-0.20230412123110-1a7c32b4e2e7/go.mod h1:WoVjGUvRqsx5yhYeDAB5CijCHpNDi0LUPHl3cf7u8Lc=
+github.com/sagernet/sing-shadowsocks v0.2.1-0.20230414124420-39baf9c17e7d h1:YP/xJMhF0yIYQ+vEN/HSWKwwG0itX24OFGsMSyYZnvA=
+github.com/sagernet/sing-shadowsocks v0.2.1-0.20230414124420-39baf9c17e7d/go.mod h1:WoVjGUvRqsx5yhYeDAB5CijCHpNDi0LUPHl3cf7u8Lc=
 github.com/sagernet/sing-shadowtls v0.1.1-0.20230409094821-9abef019436f h1:qzQvpcDm60zPW8UlZa8UEaBoFORFeGAnhDncPc3VWT4=
 github.com/sagernet/sing-shadowtls v0.1.1-0.20230409094821-9abef019436f/go.mod h1:MxB+Q9H0pAHcrlvNmwSs1crljRwHFFVhtXyOMBy44Nw=
 github.com/sagernet/sing-tun v0.1.4-0.20230326080954-8848c0e4cbab h1:a9oeWuPBuIZ70qMhIIH6RrYhp886xN9jJIwsuu4ZFUo=
